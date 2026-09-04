@@ -5,4 +5,6 @@
 1) Receba 3 notas no intervalo [0, 10] de um aluno, calcule e apresente uma mensagem de
 acordo com sua média:
 
-<img align="center" width="400" height="200" alt="image" src="https://github.com/user-attachments/assets/ce1f0cd8-529f-4c0c-9968-83b97c236d70" />
+<div align="center">
+  <img width="200" alt="image" src="https://github.com/user-attachments/assets/ce1f0cd8-529f-4c0c-9968-83b97c236d70" />
+</div>
